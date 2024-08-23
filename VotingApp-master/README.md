@@ -28,7 +28,7 @@
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
+- In URI paste this url: https:/
   -> Next
 -  Now in Local Destination
 
